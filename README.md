@@ -1,5 +1,5 @@
 # hello-world
-the first repository
+这是第一个项目，大家好~
 
 =====
 just another repository
